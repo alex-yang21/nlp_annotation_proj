@@ -21,4 +21,5 @@ We use three types of classifiers, specifically logistic regression, ordinal reg
 This project was done for Info 159 (Natural Language Processing) at UC Berkeley in Spring 2022. 
 
 Course website: https://people.ischool.berkeley.edu/~dbamman/nlp22.html
+
 Course github: https://github.com/dbamman/nlp22/tree/main/AP
