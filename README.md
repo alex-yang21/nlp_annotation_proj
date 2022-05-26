@@ -1,4 +1,5 @@
-# Reddit Posts Formality Annotation and Classification ## Alexander Yang, Sydney Ty, and Melanie Cooray
+# Reddit Posts Formality Annotation and Classification 
+## Alexander Yang, Sydney Ty, and Melanie Cooray
 
 ## Introduction
 
