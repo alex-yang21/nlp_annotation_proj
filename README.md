@@ -7,7 +7,7 @@ In this project, we annotate 1000 Reddit post titles from the subreddit [r/berke
 
 ## Data
 
-We retrieved the data using the [Python Reddit API Wrapper](https://praw.readthedocs.io/en/stable/). We specifically were interested in the [r/berkeley](https://www.reddit.com/r/berkeley/) subreddit since we were all Berkeley students, and we wanted the top 1000 posts in terms of upvotes.
+We retrieve the data using the [Python Reddit API Wrapper](https://praw.readthedocs.io/en/stable/). We specifically are interested in the [r/berkeley](https://www.reddit.com/r/berkeley/) subreddit since we were all Berkeley students, and we wanted the top 1000 posts in terms of upvotes.
 
 ## Annotation
 
